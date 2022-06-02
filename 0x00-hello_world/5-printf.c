@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
-*  main - print to the standard output 'Programming is multilingual puzzle'
+* main - print to std output "with proper grammar, but the outcome
+*	 is a piece of art"
 *
-*  Use Printf
-*  Return: retrn 0
+* Use printf
+* Return: Return 0 (Without warning)
 */
 
 int main(void)
