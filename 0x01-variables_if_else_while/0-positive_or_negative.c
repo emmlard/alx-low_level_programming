@@ -4,9 +4,7 @@
 
 /**
 * main - Determines if a number is positive, negative or zero.
-* @n: store a different value every time you will run this program
-*
-* Assign a random number to the variable n each time it is executed
+* 
 * Return: return 0
 */
 
