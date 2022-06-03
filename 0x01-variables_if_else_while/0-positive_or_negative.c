@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
-* main - should "print an output for n"
+* main - should print an output
 * @n: store a different value every time you will run this program
 *
 * Assign a random number to the variable n each time it is executed
-* return: return 0
+* Return: return 0
 */
 
 int main(void)
