@@ -1,12 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
-* main - should "print an output positive if n is greater than 0, zero if n is equals 0, negative if n is less than 0."
+* main - should "print an output for n"
 * @n: store a different value every time you will run this program
 *
-* This program will assign a random number to the variable n each time it is executed
+* Assign a random number to the variable n each time it is executed
+* return: return 0
 */
+
 int main(void)
 {
 	int n;
