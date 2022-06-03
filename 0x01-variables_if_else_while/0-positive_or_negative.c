@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
-* more headers goes there 
-* betty style doc for function main goes there 
-
-* main 
+* main - should "print an output positive if n is greater than 0, zero if n is equals 0, negative if n is less than 0."
+* @n: store a different value every time you will run this program
+*
+* This program will assign a random number to the variable n each time it is executed
 */
-
 int main(void)
 {
 	int n;
