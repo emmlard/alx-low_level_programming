@@ -13,10 +13,9 @@ int main(void)
 
 	for (a = 0; a <= 7; a++)
 	{
-	_putchar(school[a]);
-
+		_putchar(school[a]);
 	}
-	_putchar(9);
+	_putchar(10);
 
 	return (0);
 }
