@@ -4,7 +4,7 @@
 * _isupper - A unction that checks for uppercase character
 * @c: The character in ASCII code
 *
-* Return: return 1 if c is uppercase otherwise 0
+* Return: 1 for lowercase character. 0 for the rest.
 */
 
 int _isupper(int c)
